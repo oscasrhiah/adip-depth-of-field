@@ -1,0 +1,12 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+archive/*.py -text
+archive/** -whitespace
+licenses/** -text -whitespace
+Depth_of_field.py whitespace=-blank-at-eol
+*.png binary
+*.jpg binary
+*.mp4 binary
+*.ico binary

@@ -1,0 +1,50 @@
+﻿[
+    {
+        "File":  "single/input.png",
+        "Source":  "ADIP Final dataset/單物件平滑背景/0019.png",
+        "Bytes":  671476,
+        "SHA256":  "b7450b264b1b0a411390d8931b112c27905a992520fc90569dc4b920aa32bbdc"
+    },
+    {
+        "File":  "single/auto.jpg",
+        "Source":  "結果呈現/單物件平滑背景/19/19_depth_field_result_auto.jpg",
+        "Bytes":  79305,
+        "SHA256":  "2a20b94610c2b4b488532a565b3ce262a471937a2ac8ff5f8e22eba9b6f43c6b"
+    },
+    {
+        "File":  "single/multi.jpg",
+        "Source":  "結果呈現/單物件平滑背景/19/19_depth_field_result_multil.jpg",
+        "Bytes":  70399,
+        "SHA256":  "d1cb5e6fd5c19d7392f44c6eab3f1bc83114c76594df9a9252c9cf52ade90c78"
+    },
+    {
+        "File":  "single/demo.mp4",
+        "Source":  "結果呈現/單物件平滑背景/19/19_Short_Video_Result.mp4",
+        "Bytes":  4494302,
+        "SHA256":  "53ad399df75fc1af972f86adefbfbdab132f41cdaad28936b4e19ea14bbabafd"
+    },
+    {
+        "File":  "multiple/input.jpg",
+        "Source":  "ADIP Final dataset/多物體平滑背景/25.jpg",
+        "Bytes":  1095630,
+        "SHA256":  "94bab74661d2543520048484badc108b422a0e55184d8ca40e0354f3ae02fc68"
+    },
+    {
+        "File":  "multiple/auto.jpg",
+        "Source":  "結果呈現/多物體平滑背景/25/25_depth_field_result_auto.jpg",
+        "Bytes":  1022836,
+        "SHA256":  "27d2b24707f7faded6cbe01888ed3e9fb51d5bcc762759fe10554e6f5252ef9e"
+    },
+    {
+        "File":  "multiple/multi.jpg",
+        "Source":  "結果呈現/多物體平滑背景/25/25_depth_field_result_multil.jpg",
+        "Bytes":  835173,
+        "SHA256":  "29c293471acbae3e4c2fb11bd73f93ed4761a2659322dbdc307fc909b0856adf"
+    },
+    {
+        "File":  "multiple/demo.mp4",
+        "Source":  "結果呈現/多物體平滑背景/25/25_Short_Video_Result.mp4",
+        "Bytes":  11161629,
+        "SHA256":  "262f74a1ecc3006814e3e414ddc1236ad6554fc3a15e53bbfe2f79c57b675511"
+    }
+]
